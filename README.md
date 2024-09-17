@@ -14,11 +14,13 @@ Python: For data analysis and machine learning, using libraries such as Pandas, 
 Machine Learning: Algorithms such as XGBoost, Logistic Regression, and Decision Trees for fraud detection.
 Data Visualization: Using Matplotlib and Seaborn to create visualizations for EDA and insights.
 Jupyter Notebooks: Interactive notebooks for analysis, model development, and documentation.
+
 📈 Key Analysis & Features
 Data Preprocessing: Handling missing values, feature scaling, and data normalization.
 Exploratory Data Analysis: Analyzing transaction patterns, detecting outliers, and understanding feature distributions.
 Feature Engineering: Creating and selecting features to improve the model’s ability to detect fraud.
 Model Training: Implementing various machine learning models to identify fraudulent transactions.
 Model Evaluation: Measuring model performance with confusion matrices, ROC curves, and classification reports.
+
 📦 Dataset
 Contains information about individual transactions, including features like transaction amount, time, and customer details. Includes labeled data indicating fraudulent and non-fraudulent transactions.
