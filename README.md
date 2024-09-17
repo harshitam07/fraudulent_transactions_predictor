@@ -8,6 +8,7 @@ Feature Engineering: Creating new features to improve model performance.
 Model Building: Implementing and evaluating machine learning models for fraud detection.
 Model Evaluation: Assessing model performance using metrics such as accuracy, precision, recall, and F1 score.
 Insights & Reporting: Generating actionable insights and visualizations to understand fraud patterns.
+
 ⚙️ Tools & Technologies
 Python: For data analysis and machine learning, using libraries such as Pandas, NumPy, and Scikit-learn.
 Machine Learning: Algorithms such as XGBoost, Logistic Regression, and Decision Trees for fraud detection.
